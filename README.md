@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sulima1
-- 👀 I’m interested in backend and frontend development
-- 🌱 I’m currently learning Data Structures in Python and C++
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning Python, Java, and C++
 - 💞️ I’m looking to collaborate on anything! Send me a message!
 - 📫 How to reach me: 
 
