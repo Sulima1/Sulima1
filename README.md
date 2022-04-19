@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Sulima1
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Python, Java, and C++
-- 💞️ I’m looking to collaborate on anything! Send me a message!
-- 📫 How to reach me: 
+- Hi, I’m @Sulima1
+- Computer Science at Wilfrid Laurier University
+- Working with: C, C++, Python, Java, 
+- How to reach me: 
 
 LinkedIn: https://www.linkedin.com/in/matthew-borkowski-b8b8bb178/
 
