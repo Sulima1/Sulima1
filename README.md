@@ -1,6 +1,6 @@
 - Hi, I’m @Sulima1
 - Computer Science at Wilfrid Laurier University
-- Working with: C, C++, Python, Java, 
+- Working with: C, C++, Python, Java
 - How to reach me: 
 
 LinkedIn: https://www.linkedin.com/in/matthew-borkowski-b8b8bb178/
