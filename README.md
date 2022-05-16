@@ -1,15 +1,18 @@
-- Hi, I’m @Sulima1
-- Computer Science at Wilfrid Laurier University
-- Working with: C, C++, Python, Java
-- How to reach me: 
+### Hey there 👋
 
-LinkedIn: https://www.linkedin.com/in/matthew-borkowski-b8b8bb178/
+#### My name is Matthew. I'm from Toronto, Canada.
 
-Instagram: @mattborkowski__ 
+##### NOW
 
-Discord: Sulima1#9711
+-   📚 Currently studying CS at Wilfrid Laurier University;
+-   💻 Improving my coding skills;
+-   🟡 Interning in the cryptocurrency industry
 
-<!---
-Sulima1/Sulima1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##### BIO
+
+-   🏆 HawkHacks 2022 1st Place Finalist
+-   ⚙️ What I use: `python`, `c++`, `c`, `.java`, `flask`, `solidity`
+-   🌱 Learning all about **back-end development**
+-   💬 Ping me about **projects**, **gaming**, **music**, **fun projects**
+-   📫 Reach me: [linkedin.com/in/matthew-borkowski](https://www.linkedin.com/in/matthew-borkowski-b8b8bb178/)
+-   ⚡️ Fun fact: I have three citizenships
