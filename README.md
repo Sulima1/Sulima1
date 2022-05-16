@@ -11,7 +11,7 @@
 ##### BIO
 
 -   🏆 HawkHacks 2022 1st Place Finalist
--   ⚙️ What I use: `python`, `c++`, `c`, `.java`, `flask`, `solidity`
+-   ⚙️ What I use: `python`, `c++`, `c`, `java`, `flask`, `solidity`
 -   🌱 Learning all about **back-end development**
 -   💬 Ping me about **projects**, **gaming**, **music**, **fun projects**
 -   📫 Reach me: [linkedin.com/in/matthew-borkowski](https://www.linkedin.com/in/matthew-borkowski-b8b8bb178/)
