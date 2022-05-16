@@ -4,8 +4,8 @@
 
 ##### NOW
 
--   📚 Currently studying CS at Wilfrid Laurier University;
--   💻 Improving my coding skills;
+-   📚 Currently studying CS at Wilfrid Laurier University
+-   💻 Improving my coding skills
 -   🟡 Interning in the cryptocurrency industry
 
 ##### BIO
