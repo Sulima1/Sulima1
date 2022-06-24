@@ -10,7 +10,7 @@
 
 ##### BIO
 
--   ⚙️ What I use: `python`, `c++`, `c`, `java`, `flask`, `solidity`, `databases`
+-   ⚙️ What I use: `python`, 'html/css', 'javascript', `c++`, `c`, `java`, `flask`, `solidity`, 'computer vision'
 -   🌱 Learning all about **back-end development**
 -   🏆 HawkHacks 2022 1st Place Finalist
 -   💬 Ping me about **projects**, **gaming**, **music**
