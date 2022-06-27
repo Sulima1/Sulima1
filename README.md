@@ -11,7 +11,7 @@
 ##### BIO
 
 -   ⚙️ What I use: `python`, `html/css`, `javascript`, `c++`, `c`, `java`, `flask`, `solidity`, `computer vision`
--   🌱 Learning all about **back-end development**
+-   🌱 Learning all about **fullstack development**
 -   🏆 HawkHacks 2022 1st Place Finalist
 -   💬 Ping me about **projects**, **gaming**, **music**
 -   📫 Reach me: [linkedin.com/in/matthew-borkowski](https://www.linkedin.com/in/matthew-borkowski-b8b8bb178/)
