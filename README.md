@@ -6,7 +6,7 @@
 
 -   📚 Studying CS at Wilfrid Laurier University
 -   💻 Improving my coding skills
--   🟡 Interning in the blockchain industry
+-   🟡 Looking for work opportunities!
 
 ##### BIO
 
