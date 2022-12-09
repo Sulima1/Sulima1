@@ -10,7 +10,7 @@
 
 ##### BIO
 
--   ⚙️ What I use: `python`, `html/css`, `bootstrap`, `c`, `flask`, `solidity`, `computer vision`
+-   ⚙️ What I use: `python`, `java`, `c`, `html/css`, `bootstrap`, `flask`,
 -   🌱 Learning all about **fullstack development**
 -   🏆 HawkHacks 2022 1st Place Finalist
 -   💬 Ping me about **projects**, **gaming**, **music**
