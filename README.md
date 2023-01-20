@@ -10,7 +10,7 @@
 
 ##### BIO
 
--   ⚙️ What I use: `python`, `java`, `c`, `html/css`, `bootstrap`, `flask`
+-   ⚙️ What I use: `python`, `java`, `c`, `html/css`, `bootstrap`, `flask`, `pandas`, `numpy`
 -   🌱 Learning all about **fullstack development**
 -   🏆 HawkHacks 2022 1st Place Finalist
 -   💬 Ping me about **projects**, **gaming**, **music**
