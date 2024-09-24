@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-My name is Matthew. I'm from Toronto, Canada.<br><br>NOW<br><br>    📚 Studying CS at Wilfrid Laurier University<br>    💻 Improving my coding skills<br>    🟡 Looking for work opportunities!<br><br>BIO<br><br>    ⚙️ What I use: Python, C/C++, C#, Java, Go, JavaScript, SQL, VB, Solidity, HTML/CSS, R, LaTeX, ARM<br>    🌱 Learning all about fullstack development<br>    🏆 HawkHacks 2022 1st Place Finalist<br>    💬 Ping me about projects, gaming, music<br>    ⚡️ Fun fact: I have three citizenships<br>
+My name is Matthew. I'm from Toronto, Canada.<br><br>NOW<br><br>    📚 CS Graduate from Wilfrid Laurier University<br>    💻 Improving my coding skills<br>    🟡 Currently a IT Analyst Contractor!<br><br>BIO<br><br>    ⚙️ What I use: Python, C/C++, C#, Java, Go, JavaScript, SQL, VB, HTML/CSS, R, LaTeX, ARM<br>    🌱 Constantly trying to improve<br>        💬 Ping me about projects, gaming, music<br>    ⚡️ Fun fact: I have three citizenships<br>
 
 
 ## 🌐 Socials:
